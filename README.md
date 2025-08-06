@@ -2,7 +2,7 @@
 
 A modern, interactive financial data visualization application built with React, TypeScript, and Vite. This dashboard provides a calendar-based interface for viewing and analyzing financial market data including price movements, volatility, and volume metrics.
 
-![Market Calendar Dashboard] <img width="1755" height="902" alt="image" src="https://github.com/user-attachments/assets/25c81a1c-c482-4778-b19a-c3c5f66ce09a" />
+<img width="1755" height="902" alt="image" src="https://github.com/user-attachments/assets/25c81a1c-c482-4778-b19a-c3c5f66ce09a" />
 
 
 ## ✨ Features
